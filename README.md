@@ -20,4 +20,4 @@ Welcome to the LearningJavaScript repository! This repository contains JavaScrip
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/your-username/LearningJavaScript.git
+   git clone https://github.com/souravroy2001/LearningJavaScript.git
